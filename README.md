@@ -23,6 +23,7 @@ H5template(vue3+typescript+vant+axios+pinia)
  （
  也可以自行开启后端项目，
  文件夹back就是java文件，新建people数据库（Mysql），导入sql语句后，安装依赖后即可运行，然后配合前端项目提供的接口案例进行对axios的调试
+ testapi那页就是用来测试前后端交互的，需要开启后端项目，要不然就是静态页面
  ）
  
  开箱即用
