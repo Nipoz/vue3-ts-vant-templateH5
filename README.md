@@ -4,11 +4,9 @@ H5template(vue3+typescript+vant+axios+pinia)
 #一个基于vue3+ts+vant+axios+pinia+scss的移动端h5模板
 
 
-可以通过手机端查看项目效果，也可以在pc端里按F12用真机测试，http://ftp6554933.host127.sanfengyun.cn
 
-打开该网页后输入密码Qwer352863841查看效果
 
-也可以下载dist文件 在vscode使用Live Server插件打开里面index.html也可以查看项目效果
+可以下载dist文件 在vscode使用Live Server插件打开里面index.html也可以查看项目效果
 
 #项目下载  
 找到后缀名为.7z的文件，下载后解压，然后用vscode之类的编辑器打开
