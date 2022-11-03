@@ -1,10 +1,10 @@
 # vue3-ts-vant-templateH5
 H5template(vue3+typescript+vant+axios+pinia)
 
-#一个基于vue3+ts+vant+axios+pinia+scss的移动端h5模板
+# 一个基于vue3+ts+vant+axios+pinia+scss的移动端h5模板
 
 
-##（这是移动端的，电脑pc端的样式还没配，后续更新~）
+## （这是移动端的，电脑pc端的样式还没配，后续更新~）
 
 可以用手机查看项目效果，也可以在pc端里按F12用手机真机测试，
 
@@ -18,7 +18,7 @@ http://ftp6554933.host127.sanfengyun.cn
 
 可以下载dist文件 在vscode使用Live Server插件打开里面index.html也可以查看项目效果
 
-#项目下载  
+# 项目下载  
 找到后缀名为.7z的文件，下载后解压，然后用vscode之类的编辑器打开
 
 在终端输入
