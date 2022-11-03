@@ -4,7 +4,9 @@ H5template(vue3+typescript+vant+axios+pinia)
 #一个基于vue3+ts+vant+axios+pinia+scss的移动端h5模板
 （这是移动网页端的，电脑pc端的样式还没配，后续更新~）
 
-可以用手机查看项目效果，也可以在pc端里按F12用真机测试，http://ftp6554933.host127.sanfengyun.cn
+可以用手机查看项目效果，也可以在pc端里按F12用真机测试，
+
+http://ftp6554933.host127.sanfengyun.cn（这是三丰云提供的免费服务器，有点不咋行，有时会打不开网页，目前正在申请域名，换个服务器qwq）
 
 打开该网页后输入密码Qwer352863841查看效果
 
